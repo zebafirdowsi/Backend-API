@@ -13,6 +13,8 @@ A **FastAPI** backend API to classify student questions into one of three predef
 - Python 3.7 or higher
 - FastAPI
 - Uvicorn (for serving the app)
+- use the `/docs` endpoint to test the API.
+
 
 To install the dependencies:
 
